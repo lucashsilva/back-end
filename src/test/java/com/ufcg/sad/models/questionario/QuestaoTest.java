@@ -1,11 +1,11 @@
-package com.ufcg.sad.models.questao;
+package com.ufcg.sad.models.questionario;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import com.ufcg.sad.models.Questao;
-import com.ufcg.sad.models.TipoResposta;
+import com.ufcg.sad.models.questionario.Questao;
+import com.ufcg.sad.models.questionario.TipoResposta;
 
 public class QuestaoTest {
 	@Test

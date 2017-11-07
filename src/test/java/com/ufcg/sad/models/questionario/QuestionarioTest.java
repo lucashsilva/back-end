@@ -7,10 +7,6 @@ import java.util.Set;
 
 import org.junit.Test;
 
-import com.ufcg.sad.models.Questao;
-import com.ufcg.sad.models.Questionario;
-import com.ufcg.sad.models.TipoResposta;
-
 public class QuestionarioTest {
 	@Test
 	public void testQuestionario() {
